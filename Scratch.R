@@ -1,7 +1,7 @@
 #### Indian Weather Repo
 
 library(readr)
-IndianWeatherRepository <- read_csv("BIOS611/my_project/source_data/IndianWeatherRepository.csv")
+IndianWeatherRepository <- read_csv("~/Desktop/ProjectSkeleton/IndianWeatherRepository.csv")
 IndianWeather <- IndianWeatherRepository
 
 # Temperature trend
